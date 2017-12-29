@@ -17,7 +17,7 @@ public class CallCenter {
 	private List<Employee> directorList;
 	private Canal canal;
 	private LinkedList<Call> callList;
-	public static final int MAX_NUMBER_OF_CONNECTION = 5;
+	public static final int MAX_NUMBER_OF_CONNECTION = 10;
 	
 	private CallCenter(){
 		operatorList = new ArrayList<Employee>();
