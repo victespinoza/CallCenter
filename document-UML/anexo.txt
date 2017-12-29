@@ -1,0 +1,6 @@
+Cuando se reciben mas llamadas de las permitidas, en este caso 10, 
+se procesan las 10 primeras llamadas recibidas, las restantes se mantienen 
+almacenadas para poder ser procesadas nuevamente por la clase 'Dispatcher'
+Lo mismo deberia ocurrir cuando se encuentran menos de 10 empleados disponibles.
+Cuando no se encuentra ningun trabajador desocupado, tambien se mantienen las llamadas 
+y no se realiza ninguna accion en el Dispatcher.  
