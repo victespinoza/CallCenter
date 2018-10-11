@@ -13,7 +13,7 @@ public class DispatchTest {
 	
 	private static LinkedList<Call> callList;
 	private static Dispatcher dispatcher;
-	private static final int NUMBER_OF_CALL=10;
+	private static final int NUMBER_OF_CALL=5;
 	
 	private static CallCenter callCenter;
 

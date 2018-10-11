@@ -55,7 +55,6 @@ public class EmployeeController {
 		inactiveEmployee.setAsignedCall( CallCenter.getInstance().getCallList().removeLast());
 		inactiveEmployee.setConn(conn);
 		inactiveEmployee.setBusy(true);
-		System.out.println("Empleado desocupado : "+inactiveEmployee.getNameEmployee());
 		return inactiveEmployee;
 	}
 	

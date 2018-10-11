@@ -1,0 +1,32 @@
+INFO  2018-10-11 18:03:08,215 Se reciben 10 llamadas
+INFO  2018-10-11 18:03:08,215 Solo se van a poder atender 5 llamadas 
+WARN  2018-10-11 18:03:08,215 Quedo pendiente 5 llamada/s 
+
+INFO  2018-10-11 18:07:26,286 Se reciben 10 llamadas
+INFO  2018-10-11 18:07:26,286 Solo se van a poder atender 5 llamadas 
+WARN  2018-10-11 18:07:26,286 Quedaron pendientes 5 llamada/s 
+
+INFO  2018-10-11 18:07:26,286 Juan - contestando llamada - duracion: 7s - conn: 1
+INFO  2018-10-11 18:07:26,286 Pedro - contestando llamada - duracion: 6s - conn: 2
+INFO  2018-10-11 18:07:26,286 Lucas - contestando llamada - duracion: 9s - conn: 3
+INFO  2018-10-11 18:07:26,286 Dir Raul - contestando llamada - duracion: 5s - conn: 5
+INFO  2018-10-11 18:07:26,286 Sup Pablo - contestando llamada - duracion: 6s - conn: 4
+INFO  2018-10-11 18:07:31,291 Dir Raul - finalizando llamada
+INFO  2018-10-11 18:07:32,290 Pedro - finalizando llamada
+INFO  2018-10-11 18:07:32,290 Sup Pablo - finalizando llamada
+INFO  2018-10-11 18:07:33,292 Juan - finalizando llamada
+INFO  2018-10-11 18:07:35,294 Lucas - finalizando llamada
+INFO  2018-10-11 18:10:04,040 Se reciben 10 llamadas
+INFO  2018-10-11 18:10:04,040 Solo se van a poder atender 5 llamadas 
+WARN  2018-10-11 18:10:04,040 Quedaron pendientes 5 llamada/s 
+
+INFO  2018-10-11 18:10:04,040 Juan - contestando llamada - duracion: 8s - conn: 1
+INFO  2018-10-11 18:10:04,040 Pedro - contestando llamada - duracion: 10s - conn: 2
+INFO  2018-10-11 18:10:04,040 Sup Pablo - contestando llamada - duracion: 5s - conn: 4
+INFO  2018-10-11 18:10:04,040 Dir Raul - contestando llamada - duracion: 9s - conn: 5
+INFO  2018-10-11 18:10:04,040 Lucas - contestando llamada - duracion: 7s - conn: 3
+INFO  2018-10-11 18:10:09,041 Sup Pablo - finalizando llamada
+INFO  2018-10-11 18:10:11,056 Lucas - finalizando llamada
+INFO  2018-10-11 18:10:12,056 Juan - finalizando llamada
+INFO  2018-10-11 18:10:13,055 Dir Raul - finalizando llamada
+INFO  2018-10-11 18:10:14,041 Pedro - finalizando llamada
